@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  color: #878787;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  line-height: 1.5;
+  background: #acb0b1;
+  overflow-x: hidden;
+  overflow: hidden; /* Hide scrollbars */}
